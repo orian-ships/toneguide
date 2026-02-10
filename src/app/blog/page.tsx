@@ -9,6 +9,13 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: "brand-voice-audit-guide",
+    title: "How to Do a Brand Voice Audit (Step-by-Step Guide)",
+    excerpt: "A practical five-step process to audit your brand voice, identify inconsistencies across channels, and build an action plan for stronger tone consistency.",
+    date: "February 10, 2026",
+    readTime: "6 min read",
+  },
+  {
     slug: "what-is-brand-voice",
     title: "What Is Brand Voice? A Complete Guide for Marketing Teams",
     excerpt: "Learn what brand voice is, why it matters, and how to define one that keeps your entire team on-message across every channel.",
