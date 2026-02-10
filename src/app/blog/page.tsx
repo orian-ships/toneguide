@@ -9,6 +9,13 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: "brand-voice-consistency-tips",
+    title: "7 Brand Voice Consistency Tips That Actually Work",
+    excerpt: "Struggling with inconsistent brand messaging? These 7 actionable tips help marketing teams maintain a unified voice across every channel, writer, and campaign.",
+    date: "February 10, 2026",
+    readTime: "7 min read",
+  },
+  {
     slug: "brand-voice-audit-guide",
     title: "How to Do a Brand Voice Audit (Step-by-Step Guide)",
     excerpt: "A practical five-step process to audit your brand voice, identify inconsistencies across channels, and build an action plan for stronger tone consistency.",
