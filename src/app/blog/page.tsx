@@ -9,6 +9,13 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: "how-to-audit-brand-voice",
+    title: "How to Audit Your Brand Voice in 15 Minutes (Free Tool)",
+    excerpt: "Step-by-step guide to auditing your brand voice. Find inconsistencies across channels, strengthen your tone, and get a free AI-powered report.",
+    date: "February 11, 2026",
+    readTime: "7 min read",
+  },
+  {
     slug: "tone-of-voice-examples",
     title: "12 Tone of Voice Examples From Brands That Nail It",
     excerpt: "See 12 real tone of voice examples from brands like Mailchimp, Apple, Slack, and Innocent. Learn what makes each voice work and how to build your own.",
