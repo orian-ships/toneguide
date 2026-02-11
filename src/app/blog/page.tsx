@@ -9,6 +9,13 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: "brand-voice-guidelines-template",
+    title: "Brand Voice Guidelines Template (Free & Ready to Use)",
+    excerpt: "Get a free brand voice guidelines template with 7 essential sections. Define your tone, vocabulary, and writing rules so your entire team stays on-brand.",
+    date: "February 11, 2026",
+    readTime: "9 min read",
+  },
+  {
     slug: "how-to-audit-brand-voice",
     title: "How to Audit Your Brand Voice in 15 Minutes (Free Tool)",
     excerpt: "Step-by-step guide to auditing your brand voice. Find inconsistencies across channels, strengthen your tone, and get a free AI-powered report.",
