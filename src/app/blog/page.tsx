@@ -9,6 +9,13 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: "brand-voice-ai-tools",
+    title: "Best AI Tools for Brand Voice Consistency (2026 Guide)",
+    excerpt: "Compare the best AI tools that help marketing teams maintain brand voice consistency across all channels. From tone checkers to style guides — find the right fit.",
+    date: "February 11, 2026",
+    readTime: "8 min read",
+  },
+  {
     slug: "brand-voice-guidelines-template",
     title: "Brand Voice Guidelines Template (Free & Ready to Use)",
     excerpt: "Get a free brand voice guidelines template with 7 essential sections. Define your tone, vocabulary, and writing rules so your entire team stays on-brand.",
