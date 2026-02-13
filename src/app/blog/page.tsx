@@ -9,6 +9,13 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: "train-writers-brand-voice",
+    title: "How to Train New Writers on Your Brand Voice (Fast)",
+    excerpt: "A practical playbook for onboarding freelancers, new hires, and agency writers on your brand voice — so every piece sounds like it came from your team.",
+    date: "February 13, 2026",
+    readTime: "8 min read",
+  },
+  {
     slug: "brand-voice-social-media",
     title: "How to Adapt Your Brand Voice for Social Media (Without Losing It)",
     excerpt: "Learn how to adapt your brand voice across LinkedIn, Twitter/X, Instagram, and TikTok while staying consistent. Platform-specific tips with real examples.",
