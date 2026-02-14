@@ -9,6 +9,13 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: "brand-voice-ai-generated-content",
+    title: "How to Maintain Brand Voice When Using AI-Generated Content",
+    excerpt: "AI writes fast but sounds generic. Here's a 5-step framework for keeping your brand voice intact when scaling content with ChatGPT, Claude, and other AI writing tools.",
+    date: "February 14, 2026",
+    readTime: "9 min read",
+  },
+  {
     slug: "brand-voice-rebrand",
     title: "How to Update Your Brand Voice During a Rebrand (Without Losing Trust)",
     excerpt: "A step-by-step guide to evolving your brand voice during a rebrand — audit what you have, decide what shifts, roll out in phases, and keep audience trust intact.",
